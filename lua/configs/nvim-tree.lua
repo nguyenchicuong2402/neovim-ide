@@ -46,7 +46,6 @@ nvim_tree.setup({
         number = false,
         relativenumber = false,
         signcolumn = "yes",
-        hide_root_folder = true,
         side = 'left',
         mappings = {
             custom_only = false,
